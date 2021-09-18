@@ -1,9 +1,17 @@
+h2{
+  text-aling: center;
+  font-size: 30px;
+  color: blue;
+}
 ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 200;
-  background-color: #f1f1f1;
+  background-color: #f1f1f1;h1 
+  text-aling: center;
+  font-size: 20px;
+  color: blue;
 }
 
 li a{
@@ -14,7 +22,7 @@ li a{
 }
 
 li a.ativa{
-  background-color: rgb(187, 87, 207);
+  background-color: #D5BBB1;
   color: black
 }
 
@@ -22,3 +30,19 @@ li a:hover:not(a.ativa){
   background-color: #555;
   color: white
 }
+p{
+  font-size: 30px;
+  color: black;
+}
+
+footer{
+  font-size: 30px;
+  color: black;
+  background-color: blue;
+  background-position: 0;
+  text-align: center;
+}
+
+
+
+
